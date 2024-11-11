@@ -23,6 +23,7 @@
 #ifndef MEMORY_MANAGER_H
 #define MEMORY_MANAGER_H
 
+#include <memory>
 #include <vector>
 #include <chrono>
 #include <ctime>

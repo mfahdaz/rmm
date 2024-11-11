@@ -23,6 +23,8 @@
 #include <rmm/mr/device_memory_resource.hpp>
 #include <rmm/mr/managed_memory_resource.hpp>
 
+#include <memory>
+
 #include <cuda_runtime_api.h>
 #include <cstddef>
 #include <deque>
